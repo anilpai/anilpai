@@ -1,1 +1,1 @@
-Hello, I'm Anil Pai 👋, a developer passionate about coding and technology. My GitHub showcases a diverse collection of projects, including data validation tools, system design references, and algorithm implementations. 🚀 Explore my work and connect with me to collaborate on innovative solutions and share insights on various programming challenges. Let's build something amazing together! 💻✨
+Hello, I'm Anil Pai 👋
