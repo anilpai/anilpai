@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil Pai
 
-**Co-Founder & CTO at [Loopdesk AI](https://www.loopdesk.ai)** · Building AI-powered video editing
+**Founder at [Loopdesk AI](https://www.loopdesk.ai)** · Building AI-powered video editing
 
 Engineer with 15+ years of experience building scalable systems at Microsoft, Expedia/Vrbo, and Autodesk. MS in Computer Engineering from Syracuse University. Based in Bengaluru, India.
 
